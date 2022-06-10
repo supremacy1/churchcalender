@@ -1171,3 +1171,4 @@ $("#calendar").evoCalendar({
     },
   ],
 });
+$("div").removeClass("event-hide");
