@@ -253,17 +253,17 @@ $("#calendar").evoCalendar({
       badge: "6:00pm - 8:00pm",
       date: "June/6/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Men's Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Men's Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
-      //everyWeek: true, // Same event every year (optional)
-      color: "blue",
-      badge: "6:00pm - 8:00pm",
-      date: "June/13/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come study the Word of God with us!",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "blue",
+    //   badge: "6:00pm - 8:00pm",
+    //   date: "June/13/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Men's Meeting", // Event name (required)
@@ -828,17 +828,17 @@ $("#calendar").evoCalendar({
       badge: "4:00pm - 6:00pm",
       date: "June/6/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Women's Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Women's Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us plan together",
-      //everyWeek: true, // Same event every year (optional)
-      color: "purple",
-      badge: "4:00pm - 6:00pm",
-      date: "June/13/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us plan together",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "purple",
+    //   badge: "4:00pm - 6:00pm",
+    //   date: "June/13/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Women's Meeting", // Event name (required)
@@ -1403,17 +1403,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "June/6/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Young Singles' Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Young Singles' Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us bring down His Glory",
-      //everyWeek: true, // Same event every year (optional)
-      color: "yellow",
-      badge: "5:00pm - 6:00pm",
-      date: "June/13/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us bring down His Glory",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "yellow",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "June/13/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Young Singles' Meeting", // Event name (required)
@@ -1978,17 +1978,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm",
       date: "June/6/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Enquiry Class", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Enquiry Class", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come know the truth",
-      //everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm",
-      date: "June/13/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come know the truth",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm",
+    //   date: "June/13/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Enquiry Class", // Event name (required)
@@ -2564,17 +2564,17 @@ $("#calendar").evoCalendar({
       date: "June/7/2022",
       badge: "5:00pm - 7:00pm",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Bible Study", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Bible Study", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      date: "June/14/2022",
-      badge: "5:00pm - 7:00pm",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come study the Word of God with us!",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "green",
+    //   date: "June/14/2022",
+    //   badge: "5:00pm - 7:00pm",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Bible Study", // Event name (required)
@@ -3161,17 +3161,17 @@ $("#calendar").evoCalendar({
       date: "June/7/2022",
       badge: "5:00pm - 7:00pm",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children's BS", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children's BS", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Training up our children in the way of the Lord",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "brown",
-      date: "June/14/2022",
-      badge: "5:00pm - 7:00pm",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Training up our children in the way of the Lord",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "brown",
+    //   date: "June/14/2022",
+    //   badge: "5:00pm - 7:00pm",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Children's BS", // Event name (required)
@@ -3771,17 +3771,17 @@ $("#calendar").evoCalendar({
       date: "June/8/2022",
     },
 
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Teens BibleStudy", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Teens BibleStudy", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come learn the Word of God",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "brown",
-      badge: "5:00pm - 6:00pm",
-      date: "June/15/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come learn the Word of God",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "brown",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "June/15/2022",
+    // },
 
     {
       id: "bHay68s", // Event's ID (required)
@@ -4397,17 +4397,17 @@ $("#calendar").evoCalendar({
       date: "June/8/2022",
     },
 
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Adult Choir R", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Adult Choir R", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Resurrection Choir Rehearsals",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      badge: "5:00pm - 7:00pm",
-      date: "June/15/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Resurrection Choir Rehearsals",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "green",
+    //   badge: "5:00pm - 7:00pm",
+    //   date: "June/15/2022",
+    // },
 
     {
       id: "bHay68s", // Event's ID (required)
@@ -5002,17 +5002,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 7:00pm",
       date: "June/9/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Youth Fellowship", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Youth Fellowship", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Let no man despise thy youth",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "pink",
-      badge: "5:00pm - 7:00pm",
-      date: "June/16/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Let no man despise thy youth",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "pink",
+    //   badge: "5:00pm - 7:00pm",
+    //   date: "June/16/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Youth Fellowship", // Event name (required)
@@ -5577,18 +5577,18 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "June/9/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children Choir", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children Choir", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Singing to bring God's Glory",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm - 6:00pm",
-      date: "June/16/2022",
-    },
-    {
+    //   type: "holiday", // Event type (required)
+    //   description: "Singing to bring God's Glory",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "June/16/2022",
+    // },
+     {
       id: "bHay68s", // Event's ID (required)
       name: "Children Choir", // Event name (required)
 
@@ -6154,17 +6154,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "June/10/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (requigreen)
-      name: "Prep. Class", // Event name (requigreen)
+    // {
+    //   id: "bHay68s", // Event's ID (requigreen)
+    //   name: "Prep. Class", // Event name (requigreen)
 
-      type: "holiday", // Event type (requigreen)
-      description: "Let us study for Sunday School",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      badge: "5:00pm - 6:00pm",
-      date: "June/17/2022",
-    },
+    //   type: "holiday", // Event type (requigreen)
+    //   description: "Let us study for Sunday School",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "green",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "June/17/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (requigreen)
       name: "Prep. Class", // Event name (requigreen)
@@ -6473,6 +6473,90 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "December/30/2022",
     },
+
+
+    //Sunday School Week
+
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Men's Meeting",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/13/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "General Bible Study",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/14/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Sunday School Workers' Meeting",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/15/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Youth Fellowship",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/16/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Preparatory Class",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/17/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Week", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Sunday School Week",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/18/2022",
+},
+{
+  id: "bHay68s", // Event's ID (requipurple)
+  name: "Sunday Sch Day", // Event name (requipurple)
+
+  type: "holiday", // Event type (requipurple)
+  description: "Sunday School Week",
+  ///everyWeek: true, // Same event every year (optional)
+  color: "purple",
+  badge: "5:00pm - 7:00pm",
+ date: "June/19/2022",
+},
+
+
+
   ],
 });
 $("div").removeClass("event-hide");
