@@ -2909,7 +2909,7 @@ $("#calendar").evoCalendar({
     
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2920,7 +2920,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2931,7 +2931,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2942,7 +2942,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2953,7 +2953,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2964,7 +2964,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2975,7 +2975,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2986,7 +2986,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -2997,7 +2997,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3008,7 +3008,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3019,7 +3019,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3030,7 +3030,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3041,7 +3041,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3052,7 +3052,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3063,7 +3063,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3074,7 +3074,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3085,7 +3085,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3096,7 +3096,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3107,7 +3107,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3118,7 +3118,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3129,7 +3129,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3140,7 +3140,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3151,7 +3151,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3162,7 +3162,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3173,7 +3173,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3184,7 +3184,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3195,7 +3195,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3206,7 +3206,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3217,7 +3217,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3228,7 +3228,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3239,7 +3239,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3250,7 +3250,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3261,7 +3261,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3272,7 +3272,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3283,7 +3283,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3294,7 +3294,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3305,7 +3305,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3316,7 +3316,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3327,7 +3327,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3338,7 +3338,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3349,7 +3349,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3360,7 +3360,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3371,7 +3371,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3382,7 +3382,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3393,7 +3393,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3404,7 +3404,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3415,7 +3415,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3426,7 +3426,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3437,7 +3437,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3448,7 +3448,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3459,7 +3459,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3470,7 +3470,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3481,7 +3481,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3492,7 +3492,7 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Children's BibleStudy", // Event name (required)
+      name: "Children's BS", // Event name (required)
 
       type: "holiday", // Event type (required)
       description: "Training up our children in the way of the Lord",
@@ -3502,6 +3502,636 @@ $("#calendar").evoCalendar({
       date: "December/27/2022",
     },
 
+
+
+
+    //WEdnesdays
+    //Teens Bible Study
+
+    {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "January/5/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "January/12/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "January/19/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "January/26/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "February/2/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "February/9/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "February/16/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "February/23/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "March/2/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "March/9/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "March/16/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "March/23/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "March/30/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "April/6/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "April/13/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "April/20/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "April/27/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "May/4/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "May/11/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "May/18/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "May/25/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "June/1/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "June/8/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "June/15/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "June/22/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "June/29/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "July/6/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "July/13/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "July/20/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "July/27/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "August/3/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "August/10/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "August/17/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "August/24/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "August/31/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "September/7/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "September/14/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "September/21/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "September/28/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "October/5/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "October/12/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "October/19/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "October/26/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "November/2/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "November/9/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "November/16/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "November/23/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "November/30/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "December/7/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "December/14/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "December/21/2022",
+  },
+  
+  {
+      id: "bHay68s", // Event's ID (required)
+      name: "Teens BibleStudy", // Event name (required)
+  
+      type: "holiday", // Event type (required)
+      description: "Come learn the Word of God",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 6:00pm",
+      date: "December/28/2022",
+  },
+  
 
 
 
