@@ -376,13 +376,24 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Men's Meeting", // Event name (required)
+      name: "Eagles Generation", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
+      description: "Come and Experience the Wonders of God",
       //everyWeek: true, // Same event every year (optional)
-      color: "blue",
-      badge: "6:00pm - 8:00pm",
+      color: "brown",
+      badge: "9:00am - 12:00pm",
+      date: "August/28/2022",
+    },
+    {
+      id: "bHay68s", // Event's ID (required)
+      name: "Eagles Generation", // Event name (required)
+
+      type: "holiday", // Event type (required)
+      description: "Come and Experience the Wonders of God",
+      //everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 7:00pm",
       date: "August/29/2022",
     },
     {
@@ -949,17 +960,17 @@ $("#calendar").evoCalendar({
       badge: "4:00pm - 6:00pm",
       date: "August/22/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Women's Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Women's Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us plan together",
-      //everyWeek: true, // Same event every year (optional)
-      color: "purple",
-      badge: "4:00pm - 6:00pm",
-      date: "August/29/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us plan together",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "purple",
+    //   badge: "4:00pm - 6:00pm",
+    //   date: "August/29/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Women's Meeting", // Event name (required)
@@ -1524,17 +1535,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "August/22/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Young Singles' Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Young Singles' Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us bring down His Glory",
-      //everyWeek: true, // Same event every year (optional)
-      color: "yellow",
-      badge: "5:00pm - 6:00pm",
-      date: "August/29/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us bring down His Glory",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "yellow",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "August/29/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Young Singles' Meeting", // Event name (required)
@@ -2099,17 +2110,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm",
       date: "August/22/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Enquiry Class", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Enquiry Class", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come know the truth",
-      //everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm",
-      date: "August/29/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come know the truth",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm",
+    //   date: "August/29/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Enquiry Class", // Event name (required)
@@ -2687,12 +2698,12 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Bible Study", // Event name (required)
+      name: "Eagles Generation", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
+      description: "Come and Experience the Wonders of God",
       ///everyWeek: true, // Same event every year (optional)
-      color: "green",
+      color: "brown",
       date: "August/30/2022",
       badge: "5:00pm - 7:00pm",
     },
@@ -3282,17 +3293,17 @@ $("#calendar").evoCalendar({
       date: "August/23/2022",
       badge: "5:00pm - 7:00pm",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children's BS", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children's BS", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Training up our children in the way of the Lord",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "brown",
-      date: "August/30/2022",
-      badge: "5:00pm - 7:00pm",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Training up our children in the way of the Lord",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "brown",
+    //   date: "August/30/2022",
+    //   badge: "5:00pm - 7:00pm",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Children's BS", // Event name (required)
@@ -3905,13 +3916,13 @@ $("#calendar").evoCalendar({
 
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Teens BibleStudy", // Event name (required)
+      name: "Eagles Generation", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come learn the Word of God",
+      description: "Come and Experience the Wonders of God",
       ///everyWeek: true, // Same event every year (optional)
       color: "brown",
-      badge: "5:00pm - 6:00pm",
+      badge: "5:00pm - 7:00pm",
       date: "August/31/2022",
     },
 
@@ -4529,17 +4540,17 @@ $("#calendar").evoCalendar({
       date: "August/24/2022",
     },
 
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Adult Choir R", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Adult Choir R", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Resurrection Choir Rehearsals",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      badge: "5:00pm - 7:00pm",
-      date: "August/31/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Resurrection Choir Rehearsals",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "green",
+    //   badge: "5:00pm - 7:00pm",
+    //   date: "August/31/2022",
+    // },
 
     {
       id: "bHay68s", // Event's ID (required)
@@ -5125,12 +5136,12 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Youth Fellowship", // Event name (required)
+      name: "Eagles Generation", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Let no man despise thy youth",
+      description: "Come and Experience the Wonders of God",
       ///everyWeek: true, // Same event every year (optional)
-      color: "pink",
+      color: "brown",
       badge: "5:00pm - 7:00pm",
       date: "September/1/2022",
     },
@@ -5698,17 +5709,17 @@ $("#calendar").evoCalendar({
       badge: "5:00pm - 6:00pm",
       date: "August/25/2022",
     },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children Choir", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children Choir", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Singing to bring God's Glory",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm - 6:00pm",
-      date: "September/1/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Singing to bring God's Glory",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "September/1/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Children Choir", // Event name (required)
@@ -6277,14 +6288,36 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (requigreen)
-      name: "Prep. Class", // Event name (requigreen)
+      name: "Eagles Generation All Night", // Event name (requigreen)
 
       type: "holiday", // Event type (requigreen)
-      description: "Let us study for Sunday School",
+      description: "Come and Experience the Wonders of God",
       ///everyWeek: true, // Same event every year (optional)
       color: "green",
-      badge: "5:00pm - 6:00pm",
+      badge: "9:00pm - Till-Dawn",
       date: "September/2/2022",
+    },
+    {
+      id: "bHay68s", // Event's ID (requigreen)
+      name: "Eagles Generation", // Event name (requigreen)
+
+      type: "holiday", // Event type (requigreen)
+      description: "Evening of Worship",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "5:00pm - 7:00pm",
+      date: "September/3/2022",
+    },
+    {
+      id: "bHay68s", // Event's ID (requigreen)
+      name: "Eagles Generation", // Event name (requigreen)
+
+      type: "holiday", // Event type (requigreen)
+      description: "Thanksgiving Service",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "brown",
+      badge: "9:00am - 12:00pm",
+      date: "September/4/2022",
     },
     {
       id: "bHay68s", // Event's ID (requigreen)
