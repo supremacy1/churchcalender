@@ -398,12 +398,12 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Men's Meeting", // Event name (required)
+      name: "Men's Week", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
+      description: "General Council Mens Week!",
       //everyWeek: true, // Same event every year (optional)
-      color: "blue",
+      color: "gray",
       badge: "6:00pm - 8:00pm",
       date: "September/5/2022",
     },
@@ -971,17 +971,17 @@ $("#calendar").evoCalendar({
     //   badge: "4:00pm - 6:00pm",
     //   date: "August/29/2022",
     // },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Women's Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Women's Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us plan together",
-      //everyWeek: true, // Same event every year (optional)
-      color: "purple",
-      badge: "4:00pm - 6:00pm",
-      date: "September/5/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us plan together",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "purple",
+    //   badge: "4:00pm - 6:00pm",
+    //   date: "September/5/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Women's Meeting", // Event name (required)
@@ -1546,17 +1546,17 @@ $("#calendar").evoCalendar({
     //   badge: "5:00pm - 6:00pm",
     //   date: "August/29/2022",
     // },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Young Singles' Meeting", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Young Singles' Meeting", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come, Let us bring down His Glory",
-      //everyWeek: true, // Same event every year (optional)
-      color: "yellow",
-      badge: "5:00pm - 6:00pm",
-      date: "September/5/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come, Let us bring down His Glory",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "yellow",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "September/5/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Young Singles' Meeting", // Event name (required)
@@ -2121,17 +2121,17 @@ $("#calendar").evoCalendar({
     //   badge: "5:00pm",
     //   date: "August/29/2022",
     // },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Enquiry Class", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Enquiry Class", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Come know the truth",
-      //everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm",
-      date: "September/5/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Come know the truth",
+    //   //everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm",
+    //   date: "September/5/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Enquiry Class", // Event name (required)
@@ -2709,12 +2709,12 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Bible Study", // Event name (required)
+      name: "Men's Week", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come study the Word of God with us!",
+      description: "General Council Mens Week!",
       ///everyWeek: true, // Same event every year (optional)
-      color: "green",
+      color: "gray",
       date: "September/6/2022",
       badge: "5:00pm - 7:00pm",
     },
@@ -3304,17 +3304,17 @@ $("#calendar").evoCalendar({
     //   date: "August/30/2022",
     //   badge: "5:00pm - 7:00pm",
     // },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children's BS", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children's BS", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Training up our children in the way of the Lord",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "brown",
-      date: "September/6/2022",
-      badge: "5:00pm - 7:00pm",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Training up our children in the way of the Lord",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "brown",
+    //   date: "September/6/2022",
+    //   badge: "5:00pm - 7:00pm",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Children's BS", // Event name (required)
@@ -3928,13 +3928,13 @@ $("#calendar").evoCalendar({
 
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Teens BibleStudy", // Event name (required)
+      name: "Men's Week", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Come learn the Word of God",
+      description: "General Council Mens Week!",
       ///everyWeek: true, // Same event every year (optional)
-      color: "brown",
-      badge: "5:00pm - 6:00pm",
+      color: "gray",
+      badge: "6:00pm - 8:00pm",
       date: "September/7/2022",
     },
 
@@ -4552,17 +4552,17 @@ $("#calendar").evoCalendar({
     //   date: "August/31/2022",
     // },
 
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Adult Choir R", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Adult Choir R", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Resurrection Choir Rehearsals",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      badge: "5:00pm - 7:00pm",
-      date: "September/7/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Resurrection Choir Rehearsals",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "green",
+    //   badge: "5:00pm - 7:00pm",
+    //   date: "September/7/2022",
+    // },
 
     {
       id: "bHay68s", // Event's ID (required)
@@ -5147,13 +5147,35 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (required)
-      name: "Youth Fellowship", // Event name (required)
+      name: "Men's Week", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "Let no man despise thy youth",
+      description: "General Council Men's Week",
       ///everyWeek: true, // Same event every year (optional)
-      color: "pink",
-      badge: "5:00pm - 7:00pm",
+      color: "gray",
+      badge: "6:00pm - 8:00pm",
+      date: "September/10/2022",
+    },
+    {
+      id: "bHay68s", // Event's ID (required)
+      name: "Men's Day", // Event name (required)
+
+      type: "holiday", // Event type (required)
+      description: "General Concil Men's Day",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "gray",
+      badge: "9:00pm - 12:00pm",
+      date: "September/11/2022",
+    },
+    {
+      id: "bHay68s", // Event's ID (required)
+      name: "Men's Week", // Event name (required)
+
+      type: "holiday", // Event type (required)
+      description: "General Council Mens Week!",
+      ///everyWeek: true, // Same event every year (optional)
+      color: "gray",
+      badge: "6:00pm - 8:00pm",
       date: "September/8/2022",
     },
     {
@@ -5720,17 +5742,17 @@ $("#calendar").evoCalendar({
     //   badge: "5:00pm - 6:00pm",
     //   date: "September/1/2022",
     // },
-    {
-      id: "bHay68s", // Event's ID (required)
-      name: "Children Choir", // Event name (required)
+    // {
+    //   id: "bHay68s", // Event's ID (required)
+    //   name: "Children Choir", // Event name (required)
 
-      type: "holiday", // Event type (required)
-      description: "Singing to bring God's Glory",
-      ///everyWeek: true, // Same event every year (optional)
-      color: "red",
-      badge: "5:00pm - 6:00pm",
-      date: "September/8/2022",
-    },
+    //   type: "holiday", // Event type (required)
+    //   description: "Singing to bring God's Glory",
+    //   ///everyWeek: true, // Same event every year (optional)
+    //   color: "red",
+    //   badge: "5:00pm - 6:00pm",
+    //   date: "September/8/2022",
+    // },
     {
       id: "bHay68s", // Event's ID (required)
       name: "Children Choir", // Event name (required)
@@ -6321,13 +6343,13 @@ $("#calendar").evoCalendar({
     },
     {
       id: "bHay68s", // Event's ID (requigreen)
-      name: "Prep. Class", // Event name (requigreen)
+      name: "Men's Week", // Event name (requigreen)
 
       type: "holiday", // Event type (requigreen)
-      description: "Let us study for Sunday School",
+      description: "General Council Mens Week!",
       ///everyWeek: true, // Same event every year (optional)
-      color: "green",
-      badge: "5:00pm - 6:00pm",
+      color: "gray",
+      badge: "6:00pm - 8:00pm",
       date: "September/9/2022",
     },
     {
