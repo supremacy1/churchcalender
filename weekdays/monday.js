@@ -5150,7 +5150,7 @@ $("#calendar").evoCalendar({
       name: "Men's Week", // Event name (required)
 
       type: "holiday", // Event type (required)
-      description: "General Council Men's Week",
+      description: "General Council Men's Week.",
       ///everyWeek: true, // Same event every year (optional)
       color: "gray",
       badge: "6:00pm - 8:00pm",
